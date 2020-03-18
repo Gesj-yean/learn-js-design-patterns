@@ -9,3 +9,5 @@
 - [基础（动态类型语言/鸭子类型/多态/封装/原型模式和基于原型继承的 JavaScript 对象系统）](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part1-base-knowledge/1-js.md)
 
 - [this/call/apply/bind](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part1-base-knowledge/2-this%2Ccall%2Capply.md)
+
+- [闭包](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part1-base-knowledge/3-closure.md)
