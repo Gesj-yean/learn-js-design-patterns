@@ -11,3 +11,5 @@
 - [this/call/apply/bind](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part1-base-knowledge/2-this%2Ccall%2Capply.md)
 
 - [闭包](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part1-base-knowledge/3-closure.md)
+
+- [高阶函数](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part1-base-knowledge/3-higher-order-function.md)
