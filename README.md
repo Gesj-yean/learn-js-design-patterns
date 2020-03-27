@@ -13,3 +13,5 @@
 - [闭包](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part1-base-knowledge/3-closure.md)
 
 - [高阶函数](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part1-base-knowledge/3-higher-order-function.md)
+
+- [单例模式](https://github.com/Gesj-yean/learn-js-design-patterns/blob/master/part2-design-patterns/1-singletonMode.md)
